@@ -24,12 +24,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mehulp007/CricIQ">CricIQ</a></h3>
-      Every IPL ball since 2008, replayable with a calibrated, explained win probability.<br><br>
+      Every ball of 8 competitions, from Tests to the IPL, replayable with an explained win probability.<br><br>
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
       <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square">
       <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
       <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"><br><br>
-      <a href="https://criciq-eight.vercel.app"><img alt="Live demo" src="https://img.shields.io/badge/Live%20demo-EC4899?style=for-the-badge&logo=vercel&logoColor=white"></a>
       <a href="https://github.com/mehulp007/CricIQ"><img alt="Code" src="https://img.shields.io/badge/Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white"></a>
     </td>
     <td width="50%" valign="top">
@@ -81,6 +80,7 @@
       <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
       <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"><br><br>
+      <a href="https://payflow-demo-30jz.onrender.com"><img alt="Live demo" src="https://img.shields.io/badge/Live%20demo-EC4899?style=for-the-badge&logo=render&logoColor=white"></a>
       <a href="https://github.com/mehulp007/PayFlow"><img alt="Code" src="https://img.shields.io/badge/Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white"></a>
     </td>
   </tr>
@@ -99,9 +99,9 @@
 
 ### Connect
 
-<!-- Replace the LinkedIn and portfolio placeholders with your real URLs. -->
+<!-- Replace the portfolio placeholder with the real URL once the site is live. -->
 <a href="https://github.com/mehulp007"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mehulp007"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://YOUR-PORTFOLIO-URL"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,50:6D28D9,100:BE185D&height=110&section=footer">
