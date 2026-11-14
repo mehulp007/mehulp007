@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="244" viewBox="0 0 780 244" role="img" aria-labelledby="title">
+  <title id="title">const mehul: studying B.Tech CSE at Manipal University Jaipur; building ML models, RL agents and full-stack apps; learning AI agent security; fun fact: one project predicts IPL winners, another sets the field.</title>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#A78BFA;#F472B6;#22D3EE" dur="6s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#F472B6"><animate attributeName="stop-color" values="#F472B6;#22D3EE;#A78BFA;#F472B6" dur="6s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; font-size: 15px; }
+    .ln { opacity: 0; animation: in .5s ease-out forwards; }
+    @keyframes in { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: none; } }
+    .k { fill: #F472B6; font-weight: 600; } .v { fill: #22D3EE; } .p { fill: #E6EDF3; }
+    .key { fill: #A78BFA; } .s { fill: #7EE787; } .c { fill: #8B949E; font-size: 13px; }
+    .cur { opacity: 0; animation: show 0s 3.00s forwards, blink 1s 3.00s step-end infinite; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect x="1.5" y="1.5" width="777" height="241" rx="12" fill="#000000" stroke="url(#edge)" stroke-width="2.5"/>
+  <circle cx="26" cy="22" r="6" fill="#FF5F56"/><circle cx="46" cy="22" r="6" fill="#FFBD2E"/><circle cx="66" cy="22" r="6" fill="#27C93F"/>
+  <text class="c" x="390" y="27" text-anchor="middle">about_me.js</text>
+  <line x1="2" y1="42" x2="778" y2="42" stroke="#21262D"/>
+  <text class="ln" x="26" y="78" xml:space="preserve" style="animation-delay:0.30s"><tspan class="k">const</tspan><tspan class="v"> mehul</tspan><tspan class="p"> = {</tspan></text>
+  <text class="ln" x="26" y="106" xml:space="preserve" style="animation-delay:0.75s"><tspan class="key">  studying:</tspan><tspan class="s"> "B.Tech CSE @ Manipal University Jaipur"</tspan><tspan class="p">,</tspan></text>
+  <text class="ln" x="26" y="134" xml:space="preserve" style="animation-delay:1.20s"><tspan class="key">  building:</tspan><tspan class="p"> [</tspan><tspan class="s">"ML models"</tspan><tspan class="p">, </tspan><tspan class="s">"RL agents"</tspan><tspan class="p">, </tspan><tspan class="s">"full-stack apps"</tspan><tspan class="p">],</tspan></text>
+  <text class="ln" x="26" y="162" xml:space="preserve" style="animation-delay:1.65s"><tspan class="key">  learning:</tspan><tspan class="s"> "AI agent security"</tspan><tspan class="p">,</tspan></text>
+  <text class="ln" x="26" y="190" xml:space="preserve" style="animation-delay:2.10s"><tspan class="key">  funFact: </tspan><tspan class="s"> "one project predicts IPL winners, another sets the field"</tspan><tspan class="p">,</tspan></text>
+  <text class="ln" x="26" y="218" xml:space="preserve" style="animation-delay:2.55s"><tspan class="p">};</tspan></text>
+  <rect class="cur" x="48" y="204" width="9" height="18" rx="1" fill="#F472B6"/>
+</svg>
